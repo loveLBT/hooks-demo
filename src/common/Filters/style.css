@@ -1,0 +1,23 @@
+.filters {
+    list-style: none;
+    overflow: hidden;
+    padding: 4% 4% 0;
+}
+.filter {
+    list-style: none;
+    float: left;
+    width: 28.5%;
+    height: 27px;
+    line-height: 27px;
+    margin: 0 2% 4%;
+    border: 1px solid #c7ced4;
+    border-radius: 4px;
+    color: #333;
+    text-align: center;
+}
+
+.filter.checked {
+    background: #3cc;
+    border-color: #3cc;
+    color: #fff;
+}
