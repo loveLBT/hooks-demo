@@ -22,13 +22,6 @@
     float: left;
 }
 
-.nav-date {
-    color: #3cc;
-    position: relative;
-    display: block;
-    margin: 0 80px;
-}
-
 .nav-disabled {
     opacity: 0.3;
 }
